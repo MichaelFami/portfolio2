@@ -34,3 +34,19 @@ body {
     background-size: cover;
     scroll-behavior: smooth;
 }
+
+.portfoliobox{
+height: 900px;
+padding-left: 2%;
+padding-right: 2%;
+}
+#portpic{
+    height: 800px;
+    width: 800px;
+}
+
+.portdesc{
+    height: 300px;
+    margin-top: 300px;
+    margin-left: 50px;
+}
