@@ -30,3 +30,7 @@ Route::get('/aboutme', function () {
 Route::get('/resume', function () {
     return view('resume');
 });
+
+Route::get('/theme', function () {
+    return view('theme');
+});

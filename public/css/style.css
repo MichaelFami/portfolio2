@@ -1,45 +1,789 @@
-body {
-    font-family: 'Muli', sans-serif;
-}
 
-#iconz {
-    color: #362726;
-    padding: 2px;
-}
+    img.wp-smiley,
+    img.emoji {
+        display: inline !important;
+        border: none !important;
+        box-shadow: none !important;
+        height: 1em !important;
+        width: 1em !important;
+        margin: 0 .07em !important;
+        vertical-align: -0.1em !important;
+        background: none !important;
+        padding: 0 !important;
+    }
+    .recentcomments a {
+        display: inline !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .kc-off-notice {
+        display: inline-block !important;
+    }
 
+    /* Remove the icons on small devices */
 
+    @media only all and (min-height:600px) and (max-height:850px) {
 
-.navcolorz{
-    background-color: #362726;
-}
+        #home .header-social-list {
+            display: none;
+        }
 
-.portfoliobox{
-height: 650px;
-padding-left: 2%;
-padding-right: 2%;
-width: 800px;
-}
+    }
 
-.carousel-caption{
+    .kc-container {
+        max-width: 1170px;
+    }
+    @media only screen and (min-width:1000px) and (max-width:5000px) {
+        body.kc-css-system .kc-css-419618 {
+            width: 40.65%;
+        }
+        body.kc-css-system .kc-css-613238 {
+            width: 59.34%;
+        }
+        body.kc-css-system .kc-css-899489 {
+            width: 50%;
+        }
+        body.kc-css-system .kc-css-765962 {
+            width: 50%;
+        }
+        body.kc-css-system .kc-css-363580 {
+            width: 50%;
+        }
+        body.kc-css-system .kc-css-844317 {
+            width: 50%;
+        }
+        body.kc-css-system .kc-css-230929 {
+            width: 25%;
+        }
+        body.kc-css-system .kc-css-333353 {
+            width: 25%;
+        }
+        body.kc-css-system .kc-css-209601 {
+            width: 25%;
+        }
+        body.kc-css-system .kc-css-465166 {
+            width: 25%;
+        }
+        body.kc-css-system .kc-css-530789 {
+            width: 100%;
+        }
+        body.kc-css-system .kc-css-438074 {
+            width: 33.33%;
+        }
+        body.kc-css-system .kc-css-528405 {
+            width: 33.33%;
+        }
+        body.kc-css-system .kc-css-651403 {
+            width: 33.33%;
+        }
+    }
 
-}
+    body.kc-css-system .kc-css-785049 {
+        background: transparent url("/images/MichaelFami.jpg") center center/cover no-repeat scroll;
+    }
 
-.portdesc{
-    height: 300px;
-    margin-top: 300px;
-    margin-left: 50px;
-}
-#section1{
-    padding-top: 100px;
-    padding-bottom: 50px;
-    background-color: #536475;
-}
-#section2{
-    background-color: #362726;
-}
+    body.kc-css-system .kc-css-662047 {
+        padding-top: 320px;
+    }
 
-#section3{
-    padding-top: 250px;
-    padding-bottom: 150px;
-    background-color: #595C41;
-}
+    body.kc-css-system .kc-css-301405,
+    body.kc-css-system .kc-css-301405 p {
+        color: #ffffff;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 700;
+        text-align: center;
+        letter-spacing: 2px;
+    }
+
+    body.kc-css-system .kc-css-301405 p {
+        margin-bottom: 15px;
+    }
+
+    body.kc-css-system .kc-css-151561.kc_title,
+    body.kc-css-system .kc-css-151561 .kc_title,
+    body.kc-css-system .kc-css-151561 .kc_title a.kc_title_link {
+        color: #ffffff;
+        font-family: Montserrat;
+        font-size: 29px;
+        text-align: center;
+        margin-top: 26px;
+    }
+
+    body.kc-css-system .kc-css-151561 {
+        display: none;
+    }
+
+    body.kc-css-system .kc-css-172760 .cd-headline {
+        color: #ffffff;
+        font-size: 70px;
+        line-height: 75px;
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-926439 .johny-list-inline {
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-926439 .johny-list-inline li {
+        color: #ffffff;
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-926439 {
+        margin-top: 15px;
+    }
+
+    body.kc-css-system .kc-css-750218 i {
+        color: #ffffff;
+    }
+
+    body.kc-css-system .kc-css-750218 a {
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        border: 1px solid rgba(255, 255, 255, 1);
+        border-radius: 50px 50px 50px 50px;
+        margin-right: 15px;
+    }
+
+    body.kc-css-system .kc-css-750218 a:hover i {
+        color: #000000;
+    }
+
+    body.kc-css-system .kc-css-750218 a:hover {
+        background-color: #ffffff;
+    }
+
+    body.kc-css-system .kc-css-750218 {
+        text-align: center;
+        transform: translateY(170px);
+    }
+
+    body.kc-css-system .kc-css-856904 {
+        padding-top: 110px;
+    }
+
+    body.kc-css-system .kc-css-613238 {
+        padding-top: 35px;
+        padding-left: 8%;
+    }
+
+    body.kc-css-system .kc-css-111384 {
+        margin-bottom: 23px;
+    }
+
+    body.kc-css-system .kc-css-353169 p {
+        margin-bottom: 15px;
+    }
+
+    body.kc-css-system .kc-css-726447 p {
+        margin-bottom: 50px;
+    }
+
+    body.kc-css-system .kc-css-725178 .kc_button {
+        color: #ffffff;
+        background-color: #000000;
+        font-family: Montserrat;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        width: 135px;
+        border: 2px solid rgba(0, 0, 0, 1);
+        padding: 14px 30px 14px 30px;
+    }
+
+    body.kc-css-system .kc-css-725178 {
+        display: inline;
+    }
+
+    body.kc-css-system .kc-css-725178 .kc_button:hover {
+        color: #000000;
+        background-color: #ffffff;
+    }
+
+    body.kc-css-system .kc-css-725178.kc-elm {
+        width: 140px;
+        margin-right: 30px;
+    }
+
+    body.kc-css-system .kc-css-149189 .kc_button {
+        color: #000000;
+        background-color: #ffffff;
+        font-family: Montserrat;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        border: 2px solid rgba(0, 0, 0, 1);
+        padding: 14px 30px 14px 30px;
+    }
+
+    body.kc-css-system .kc-css-149189 {
+        display: inline;
+    }
+
+    body.kc-css-system .kc-css-149189 .kc_button:hover {
+        color: #ffffff;
+        background-color: #000000;
+    }
+
+    body.kc-css-system .kc-css-149189.kc-elm {
+        width: 180px;
+    }
+
+    body.kc-css-system .kc-css-691217 {
+        margin-top: 100px;
+    }
+
+    body.kc-css-system .kc-css-93026 .section-title .title {
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-93026 {
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-254077 {
+        margin-top: 65px;
+    }
+
+    body.kc-css-system .kc-css-808600 .progress-item span.label {
+        color: #000000;
+        font-family: Montserrat;
+        font-size: 12px;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 12px;
+    }
+
+    body.kc-css-system .kc-css-808600 .progress-item .value {
+        font-family: Montserrat;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    body.kc-css-system .kc-css-808600 .progress-item .ui-label {
+        margin-bottom: 8px;
+    }
+
+    body.kc-css-system .kc-css-808600 .kc-ui-progress-bar,
+    body.kc-css-system .kc-css-808600 .kc-ui-progress {
+        height: 6px;
+    }
+
+    body.kc-css-system .kc-css-808600 .kc-ui-progress-bar {
+        background-color: #e5e5e5;
+    }
+
+    body.kc-css-system .kc-css-808600 .progress-item {
+        padding-bottom: 35px;
+    }
+
+    body.kc-css-system .kc-css-123745 .progress-item span.label {
+        color: #000000;
+        font-family: Montserrat;
+        font-size: 12px;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 12px;
+    }
+
+    body.kc-css-system .kc-css-123745 .progress-item .value {
+        font-family: Montserrat;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    body.kc-css-system .kc-css-123745 .progress-item .ui-label {
+        margin-bottom: 8px;
+    }
+
+    body.kc-css-system .kc-css-123745 .kc-ui-progress-bar,
+    body.kc-css-system .kc-css-123745 .kc-ui-progress {
+        height: 6px;
+    }
+
+    body.kc-css-system .kc-css-123745 .kc-ui-progress-bar {
+        background-color: #e5e5e5;
+    }
+
+    body.kc-css-system .kc-css-123745 .progress-item {
+        padding-bottom: 35px;
+    }
+
+    body.kc-css-system .kc-css-970419 {
+        background: #fafafa;
+        margin-top: 70px;
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    body.kc-css-system .kc-css-323567 .section-title .title {
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-323567 {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    body.kc-css-system .kc-css-348882 {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    body.kc-css-system .kc-css-728429 .section-title .title {
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-728429 {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    body.kc-css-system .kc-css-32319 {
+        background: #fafafa;
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    body.kc-css-system .kc-css-650125 .section-title .title {
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-650125 {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    body.kc-css-system .kc-css-363580 {
+        padding-right: 45px;
+    }
+
+    body.kc-css-system .kc-css-465319.kc_title,
+    body.kc-css-system .kc-css-465319 .kc_title,
+    body.kc-css-system .kc-css-465319 .kc_title a.kc_title_link {
+        font-size: 30px;
+        padding-left: 15px;
+        margin-bottom: 30px;
+    }
+
+    body.kc-css-system .kc-css-465319.kc_title i,
+    body.kc-css-system .kc-css-465319 .kc_title i,
+    body.kc-css-system .kc-css-465319 .kc_title a.kc_title_link i {
+        margin-right: 18px;
+    }
+
+    body.kc-css-system .kc-css-480821 .single-resume>p {
+        font-family: Open Sans;
+    }
+
+    body.kc-css-system .kc-css-844317 {
+        padding-left: 45px;
+    }
+
+    body.kc-css-system .kc-css-74424.kc_title,
+    body.kc-css-system .kc-css-74424 .kc_title,
+    body.kc-css-system .kc-css-74424 .kc_title a.kc_title_link {
+        font-size: 30px;
+        padding-left: 15px;
+        margin-bottom: 30px;
+    }
+
+    body.kc-css-system .kc-css-74424.kc_title i,
+    body.kc-css-system .kc-css-74424 .kc_title i,
+    body.kc-css-system .kc-css-74424 .kc_title a.kc_title_link i {
+        margin-right: 18px;
+    }
+
+    body.kc-css-system .kc-css-381433 {
+        margin-top: 100px;
+    }
+
+    body.kc-css-system .kc-css-779678 .section-title .title {
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-779678 {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    body.kc-css-system .kc-css-385010 {
+        margin-top: 160px;
+    }
+
+    body.kc-css-system .kc-css-751372 {
+        background: #fafafa;
+        margin-top: 100px;
+        padding-top: 100px;
+        padding-bottom: 120px;
+    }
+
+    body.kc-css-system .kc-css-360087 .section-title .title {
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-360087 {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    body.kc-css-system .kc-css-955881 {
+        padding-top: 100px;
+    }
+
+    body.kc-css-system .kc-css-632524 .section-title .title {
+        display: inline-block;
+    }
+
+    body.kc-css-system .kc-css-632524 {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    body.kc-css-system .kc-css-849198 {
+        background: #fafafa;
+        margin-top: 80px;
+        padding-top: 100px;
+        padding-bottom: 110px;
+    }
+
+    body.kc-css-system .kc-css-468690.kc_title,
+    body.kc-css-system .kc-css-468690 .kc_title,
+    body.kc-css-system .kc-css-468690 .kc_title a.kc_title_link {
+        font-family: Montserrat;
+        font-size: 36px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-697137,
+    body.kc-css-system .kc-css-697137 p {
+        color: #aaaaaa;
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-697137 p {
+        margin-bottom: 40px;
+    }
+
+    body.kc-css-system .kc-css-793730 .kc_button {
+        color: #ffffff;
+        background-color: #000000;
+        font-family: Montserrat;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        border: 2px solid rgba(0, 0, 0, 1);
+        padding: 14px 30px 14px 30px;
+    }
+
+    body.kc-css-system .kc-css-793730 {
+        text-align: center;
+        display: inline;
+    }
+
+    body.kc-css-system .kc-css-793730 .kc_button:hover {
+        color: #000000;
+        background-color: #ffffff;
+    }
+
+    body.kc-css-system .kc-css-754503 {
+        margin-top: 105px;
+        padding: 70px 70px 70px 70px;
+        box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    }
+
+    body.kc-css-system .kc-css-583046 {
+        margin-bottom: 60px;
+    }
+
+    body.kc-css-system .kc-css-269287 i {
+        color: #000000;
+        background-color: #ffffff;
+        font-size: 24px;
+        border: 1px solid #000000;
+        border-radius: 50px 50px 50px 50px;
+        padding: 15px 15px 15px 15px;
+    }
+
+    body.kc-css-system .kc-css-269287 {
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-609259.kc_title,
+    body.kc-css-system .kc-css-609259 .kc_title,
+    body.kc-css-system .kc-css-609259 .kc_title a.kc_title_link {
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    body.kc-css-system .kc-css-970136 i {
+        color: #000000;
+        background-color: #ffffff;
+        font-size: 24px;
+        border: 1px solid #000000;
+        border-radius: 50px 50px 50px 50px;
+        padding: 15px 15px 15px 15px;
+    }
+
+    body.kc-css-system .kc-css-970136 {
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-193521.kc_title,
+    body.kc-css-system .kc-css-193521 .kc_title,
+    body.kc-css-system .kc-css-193521 .kc_title a.kc_title_link {
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    body.kc-css-system .kc-css-783914 i {
+        color: #000000;
+        background-color: #ffffff;
+        font-size: 24px;
+        border: 1px solid #000000;
+        border-radius: 50px 50px 50px 50px;
+        padding: 15px 15px 15px 15px;
+    }
+
+    body.kc-css-system .kc-css-783914 {
+        text-align: center;
+    }
+
+    body.kc-css-system .kc-css-717.kc_title,
+    body.kc-css-system .kc-css-717 .kc_title,
+    body.kc-css-system .kc-css-717 .kc_title a.kc_title_link {
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    body.kc-css-system .kc-css-153175 .wpcf7-submit {
+        font-size: 11px;
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+
+    @media only screen and (max-width:1024px) {
+        body.kc-css-system .kc-css-172760 .cd-headline {
+            font-size: 56px;
+        }
+        body.kc-css-system .kc-css-750218 i {
+            font-size: 17px;
+        }
+        body.kc-css-system .kc-css-750218 a {
+            padding: 10px 11px 10px 11px;
+        }
+        body.kc-css-system .kc-css-750218 {
+            transform: translateY(80px);
+        }
+    }
+
+    @media only screen and (max-width:999px) {
+        body.kc-css-system .kc-css-419618 {
+            width: 100%;
+        }
+        body.kc-css-system .kc-css-613238 {
+            padding-right: 45px;
+            padding-left: 45px;
+            width: 100%;
+        }
+        body.kc-css-system .kc-css-111384 .section-title .title {
+            text-align: center;
+            display: inline-block;
+        }
+        body.kc-css-system .kc-css-111384 {
+            text-align: center;
+        }
+        body.kc-css-system .kc-css-353169,
+        body.kc-css-system .kc-css-353169 p {
+            text-align: center;
+        }
+        body.kc-css-system .kc-css-726447,
+        body.kc-css-system .kc-css-726447 p {
+            text-align: center;
+        }
+        body.kc-css-system .kc-css-725178 .kc_button {
+            margin-left: 180px;
+        }
+        body.kc-css-system .kc-css-149189 .kc_button {
+            margin-left: 180px;
+        }
+        body.kc-css-system .kc-css-230929 {
+            margin-bottom: 50px;
+            width: 50%;
+        }
+        body.kc-css-system .kc-css-333353 {
+            margin-bottom: 50px;
+            width: 50%;
+        }
+        body.kc-css-system .kc-css-209601 {
+            width: 50%;
+        }
+        body.kc-css-system .kc-css-465166 {
+            width: 50%;
+        }
+    }
+
+    @media only screen and (max-width:767px) {
+        body.kc-css-system .kc-css-662047 {
+            padding-top: 150px;
+        }
+        body.kc-css-system .kc-css-301405,
+        body.kc-css-system .kc-css-301405 p {
+            font-size: 20px;
+        }
+        body.kc-css-system .kc-css-301405 p {
+            margin-bottom: 0px;
+        }
+        body.kc-css-system .kc-css-172760 .cd-headline {
+            font-size: 30px;
+        }
+        body.kc-css-system .kc-css-750218 {
+            display: none;
+        }
+        body.kc-css-system .kc-css-419618 {
+            margin-bottom: 50px;
+            padding-left: 100px;
+        }
+        body.kc-css-system .kc-css-725178 .kc_button {
+            margin-left: 120px;
+        }
+        body.kc-css-system .kc-css-149189 .kc_button {
+            margin-left: 120px;
+        }
+        body.kc-css-system .kc-css-899489 {
+            padding-right: 45px;
+            padding-left: 45px;
+        }
+        body.kc-css-system .kc-css-765962 {
+            padding-right: 45px;
+            padding-left: 45px;
+        }
+        body.kc-css-system .kc-css-123745 .progress-item span.label {
+            margin-top: 30px;
+        }
+        body.kc-css-system .kc-css-363580 {
+            padding-left: 45px;
+        }
+        body.kc-css-system .kc-css-844317 {
+            padding-top: 50px;
+            padding-right: 45px;
+            padding-left: 45px;
+        }
+        body.kc-css-system .kc-css-366918 {
+            padding-right: 45px;
+            padding-left: 45px;
+        }
+        body.kc-css-system .kc-css-672940 {
+            padding-right: 45px;
+            padding-left: 45px;
+        }
+        body.kc-css-system .kc-css-438074 {
+            margin-bottom: 45px;
+        }
+        body.kc-css-system .kc-css-528405 {
+            margin-bottom: 45px;
+        }
+    }
+
+    @media only screen and (max-width:479px) {
+        body.kc-css-system .kc-css-662047 {
+            padding-top: 300px;
+        }
+        body.kc-css-system .kc-css-301405,
+        body.kc-css-system .kc-css-301405 p {
+            font-size: 29px;
+        }
+        body.kc-css-system .kc-css-151561 {
+            display: block;
+        }
+        body.kc-css-system .kc-css-151561.kc_title,
+        body.kc-css-system .kc-css-151561 .kc_title,
+        body.kc-css-system .kc-css-151561 .kc_title a.kc_title_link {
+            margin-top: 15px;
+        }
+        body.kc-css-system .kc-css-172760 {
+            display: none;
+        }
+        body.kc-css-system .kc-css-926439 .johny-list-inline li {
+            display: block;
+        }
+        body.kc-css-system .kc-css-926439 .johny-list-inline li::after {
+            display: none;
+        }
+        body.kc-css-system .kc-css-750218 {
+            display: block;
+            transform: translateY(40px);
+        }
+        body.kc-css-system .kc-css-419618 {
+            padding-left: 15px;
+        }
+        body.kc-css-system .kc-css-725178 .kc_button {
+            width: 100%;
+            margin-bottom: 20px;
+            margin-left: 0px;
+        }
+        body.kc-css-system .kc-css-725178 {
+            display: block;
+        }
+        body.kc-css-system .kc-css-149189 .kc_button {
+            width: 100%;
+            margin-left: 0px;
+        }
+        body.kc-css-system .kc-css-149189 {
+            display: block;
+        }
+        body.kc-css-system .kc-css-808600 .progress-item {
+            padding-bottom: 50px;
+        }
+        body.kc-css-system .kc-css-123745 .progress-item {
+            padding-bottom: 16px;
+        }
+        body.kc-css-system .kc-css-230929 {
+            margin-bottom: 40px;
+            width: 100%;
+        }
+        body.kc-css-system .kc-css-333353 {
+            margin-bottom: 40px;
+            width: 100%;
+        }
+        body.kc-css-system .kc-css-209601 {
+            margin-bottom: 40px;
+            width: 100%;
+        }
+        body.kc-css-system .kc-css-465166 {
+            width: 100%;
+        }
+        body.kc-css-system .kc-css-468690.kc_title,
+        body.kc-css-system .kc-css-468690 .kc_title,
+        body.kc-css-system .kc-css-468690 .kc_title a.kc_title_link {
+            line-height: 38px;
+            padding-right: 50px;
+            padding-left: 50px;
+        }
+        body.kc-css-system .kc-css-697137 {
+            padding-right: 70px;
+            padding-left: 70px;
+        }
+        body.kc-css-system .kc-css-754503 {
+            width: 90%;
+            margin-left: 5%;
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+    }
