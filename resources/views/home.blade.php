@@ -16,7 +16,7 @@
 
     <link rel='stylesheet' id='porfo-google-fonts-css' href='//fonts.googleapis.com/css?family=Lato%7CMontserrat%3A300%2C400%2C500%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
     <link rel='stylesheet' id='animate-css' href='/css/animate.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='bootstrap-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/bootstrap.min.css?ver=4.8.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='bootstrap-css' href='/css/bootstrap.css' type='text/css' media='all' />
 
 
 
