@@ -266,10 +266,10 @@
                                             </div>
                                             <div class="portfolio-item design marketing ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/2-1.jpg')"></div>
+                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
-                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href="http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/2-1.jpg"><i class="ti-fullscreen"></i></a>
+                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">Corporate Branding</a></h3>
 
                                                             <span class="portfolio-category">design, marketing</span>
@@ -281,12 +281,12 @@
                                             </div>
                                             <div class="portfolio-item branding product portfolio-item-xl ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/3-1.jpg')"></div>
+                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
 
 
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
-                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href="http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/3-1.jpg"><i class="ti-fullscreen"></i></a>
+                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">Corporate Branding</a></h3>
 
                                                             <span class="portfolio-category">branding, product</span>
@@ -299,12 +299,12 @@
 
                                             <div class="portfolio-item branding product ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/5.jpg')"></div>
+                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
 
 
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
-                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href="http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/5.jpg"><i class="ti-fullscreen"></i></a>
+                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">Corporate Branding</a></h3>
 
                                                             <span class="portfolio-category">branding, product</span>
@@ -317,11 +317,11 @@
 
                                             <div class="portfolio-item development marketing ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/6.jpg')"></div>
-                                                    <div class="portfolio-details" data-href="http://themes.dhrubok.website/porfo/portfolio/corporate-branding/">
+                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
+                                                    <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
-                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href="http://themes.dhrubok.website/porfo/wp-content/uploads/2017/10/6.jpg"><i class="ti-fullscreen"></i></a>
-                                                            <h3><a href="http://themes.dhrubok.website/porfo/portfolio/corporate-branding/">Corporate Branding</a></h3>
+                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
+                                                            <h3><a href="">Corporate Branding</a></h3>
 
                                                             <span class="portfolio-category">development, marketing</span>
                                                         </div>
