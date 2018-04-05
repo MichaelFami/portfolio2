@@ -28,21 +28,21 @@
         type='text/css' media='all' />
     <link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.8.5' type='text/css' media='all' />
     <link rel='stylesheet' id='kc-general-css' href='/css/generalstyle.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='kc-animate-css' href='http://themes.dhrubok.website/porfo/wp-content/plugins/kingcomposer/assets/css/animate.css?ver=2.6.17' type='text/css' media='all' />
-    <link rel='stylesheet' id='kc-icon-1-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=2.6.17' type='text/css' media='all' />
-    <link rel='stylesheet' id='kc-icon-2-css' href='http://themes.dhrubok.website/porfo/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.6.17' type='text/css' media='all' />
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <link rel='https://api.w.org/' href='http://themes.dhrubok.website/porfo/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themes.dhrubok.website/porfo/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themes.dhrubok.website/porfo/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 4.8.5" />
-    <link rel="canonical" href="http://themes.dhrubok.website/porfo/" />
-    <link rel='shortlink' href='http://themes.dhrubok.website/porfo/' />
+    <link rel='stylesheet' id='kc-animate-css' href='/css/animate2.css' type='text/css' media='all' />
+    {{-- <link rel='stylesheet' id='kc-icon-1-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=2.6.17' type='text/css' media='all' /> --}}
+    <link rel='stylesheet' id='kc-icon-2-css' href='/css/style2.css' type='text/css' media='all' />
+    <script type='text/javascript' src='/js/jquery.js'></script>
+    <script type='text/javascript' src='/js/jquery2.js'></script>
+    <link rel='https://api.w.org/' href='/js/json.json' />
+    {{-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themes.dhrubok.website/porfo/xmlrpc.php?rsd" /> --}}
+    {{-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themes.dhrubok.website/porfo/wp-includes/wlwmanifest.xml" /> --}}
+    {{-- <meta name="generator" content="WordPress 4.8.5" /> --}}
+    {{-- <link rel="canonical" href="http://michaelfami.com" />
+    <link rel='shortlink' href='http://michaelfami.com' />
     <link rel="alternate" type="application/json+oembed" href="http://themes.dhrubok.website/porfo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.dhrubok.website%2Fporfo%2F" />
     <link rel="alternate" type="text/xml+oembed" href="http://themes.dhrubok.website/porfo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.dhrubok.website%2Fporfo%2F&#038;format=xml" />
     <script type="text/javascript"> var kc_script_data = { ajax_url: "http://themes.dhrubok.website/porfo/wp-admin/admin-ajax.php" }
-    </script>
+    </script> --}}
 
 
 
