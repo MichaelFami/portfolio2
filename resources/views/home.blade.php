@@ -11,26 +11,23 @@
     <title>Michael Fami  </title>
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Porfo &raquo; Feed" href="http://themes.dhrubok.website/porfo/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Porfo &raquo; Comments Feed" href="http://themes.dhrubok.website/porfo/comments/feed/" />
 
 
-    <link rel='stylesheet' id='contact-form-7-css' href='http://themes.dhrubok.website/porfo/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+
     <link rel='stylesheet' id='porfo-google-fonts-css' href='//fonts.googleapis.com/css?family=Lato%7CMontserrat%3A300%2C400%2C500%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='animate-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/animate.css?ver=4.8.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='animate-css' href='/css/animate.css' type='text/css' media='all' />
     <link rel='stylesheet' id='bootstrap-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/bootstrap.min.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='themify-icons-css-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='slick-css-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/slick.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='porfo-elements-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/elements.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='porfo-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/style.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='porfo-blog-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/blog.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='porfo-responsive-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/responsive.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='porfo-stylesheet-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo-child/style.css?ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='porfo-theme-custom-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/theme_options_style.css?ver=4.8.5' type='text/css' media='all' />
+
+
+
+
+
+    {{-- <link rel='stylesheet' id='porfo-stylesheet-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo-child/style.css?ver=4.8.5' type='text/css' media='all' /> --}}
+    {{-- <link rel='stylesheet' id='porfo-theme-custom-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/theme_options_style.css?ver=4.8.5' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='montserrat-css' href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext%2Cvietnamese&#038;ver=2.6.17'
         type='text/css' media='all' />
     <link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.8.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='kc-general-css' href='http://themes.dhrubok.website/porfo/wp-content/plugins/kingcomposer/assets/frontend/css/kingcomposer.min.css?ver=2.6.17' type='text/css' media='all' />
+    <link rel='stylesheet' id='kc-general-css' href='/css/generalstyle.css' type='text/css' media='all' />
     <link rel='stylesheet' id='kc-animate-css' href='http://themes.dhrubok.website/porfo/wp-content/plugins/kingcomposer/assets/css/animate.css?ver=2.6.17' type='text/css' media='all' />
     <link rel='stylesheet' id='kc-icon-1-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=2.6.17' type='text/css' media='all' />
     <link rel='stylesheet' id='kc-icon-2-css' href='http://themes.dhrubok.website/porfo/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.6.17' type='text/css' media='all' />
@@ -169,7 +166,7 @@
 		<span>I’m </span>
 
 		<span class="cd-words-wrapper">
-			<b class="is-visible">Michael Famitafreshi</b><b>a Front-End Developer</b><b>a Back-End Developer</b>	</span>
+			<b class="is-visible">Michael Famitafreshi</b><b>a Front-End Developer</b><b>a Back-End Developer</b><b>a Motorcyclist</b><b>a Gamer</b><b>a Gardener</b><b>a Gardener</b>	</span>
 	</h1>
                                 </div>
 
@@ -473,9 +470,9 @@
                                                                 <div class="input-form-group">
                                                                     <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span>
                                                                 </div>
-                                                                <div class="input-form-group">
+                                                                {{-- <div class="input-form-group">
                                                                     <span class="wpcf7-form-control-wrap budget"><input type="text" name="budget" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Budget" /></span>
-                                                                </div>
+                                                                </div> --}}
                                                             </div>
                                                             <div class="col-md-7 col-sm-6">
                                                                 <div class="input-form-group">
