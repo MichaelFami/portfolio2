@@ -583,10 +583,10 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/bootstrap.min.js'></script>
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/isotope.pkgd.min.js'></script>
+    <script type='text/javascript' src='/js/more.js'></script>
+    <script type='text/javascript' src='/js/more2.js'></script>
+    <script type='text/javascript' src='/js/bootsrap2.js'></script>
+    <script type='text/javascript' src='/js/isotope.js'></script>
     <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/jquery.counterup.min.js'></script>
     <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/slick.min.js'></script>
     <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/waypoints.min.js'></script>
