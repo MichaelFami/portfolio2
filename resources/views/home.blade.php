@@ -8,7 +8,7 @@
 
 
 
-    <title>Michael Fami  </title>
+    <title>Michael Fami </title>
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
 
@@ -16,32 +16,30 @@
 
     <link rel='stylesheet' id='porfo-google-fonts-css' href='//fonts.googleapis.com/css?family=Lato%7CMontserrat%3A300%2C400%2C500%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
     <link rel='stylesheet' id='animate-css' href='/css/animate.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='bootstrap-css' href='/css/bootstrap.css' type='text/css' media='all' />
-
-
-
-
-
-    {{-- <link rel='stylesheet' id='porfo-stylesheet-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo-child/style.css?ver=4.8.5' type='text/css' media='all' /> --}}
-    {{-- <link rel='stylesheet' id='porfo-theme-custom-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/theme_options_style.css?ver=4.8.5' type='text/css' media='all' /> --}}
+    <link rel='stylesheet' id='bootstrap-css' href='/css/bootstrap.css' type='text/css' media='all' /> {{--
+    <link rel='stylesheet' id='porfo-stylesheet-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo-child/style.css?ver=4.8.5' type='text/css' media='all' /> --}} {{--
+    <link rel='stylesheet' id='porfo-theme-custom-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/theme_options_style.css?ver=4.8.5' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='montserrat-css' href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext%2Cvietnamese&#038;ver=2.6.17'
         type='text/css' media='all' />
     <link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.8.5' type='text/css' media='all' />
     <link rel='stylesheet' id='kc-general-css' href='/css/generalstyle.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='kc-animate-css' href='/css/animate2.css' type='text/css' media='all' />
-    {{-- <link rel='stylesheet' id='kc-icon-1-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=2.6.17' type='text/css' media='all' /> --}}
+    <link rel='stylesheet' id='kc-animate-css' href='/css/animate2.css' type='text/css' media='all' /> {{--
+    <link rel='stylesheet' id='kc-icon-1-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=2.6.17' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='kc-icon-2-css' href='/css/style2.css' type='text/css' media='all' />
     <script type='text/javascript' src='/js/jquery.js'></script>
     <script type='text/javascript' src='/js/jquery2.js'></script>
-    <link rel='https://api.w.org/' href='/js/json.json' />
-    {{-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themes.dhrubok.website/porfo/xmlrpc.php?rsd" /> --}}
-    {{-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themes.dhrubok.website/porfo/wp-includes/wlwmanifest.xml" /> --}}
-    {{-- <meta name="generator" content="WordPress 4.8.5" /> --}}
-    {{-- <link rel="canonical" href="http://michaelfami.com" />
+    <link rel='https://api.w.org/' href='/js/json.json' /> {{--
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themes.dhrubok.website/porfo/xmlrpc.php?rsd" /> --}} {{--
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themes.dhrubok.website/porfo/wp-includes/wlwmanifest.xml" /> --}} {{--
+    <meta name="generator" content="WordPress 4.8.5" /> --}} {{--
+    <link rel="canonical" href="http://michaelfami.com" />
     <link rel='shortlink' href='http://michaelfami.com' />
     <link rel="alternate" type="application/json+oembed" href="http://themes.dhrubok.website/porfo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.dhrubok.website%2Fporfo%2F" />
     <link rel="alternate" type="text/xml+oembed" href="http://themes.dhrubok.website/porfo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.dhrubok.website%2Fporfo%2F&#038;format=xml" />
-    <script type="text/javascript"> var kc_script_data = { ajax_url: "http://themes.dhrubok.website/porfo/wp-admin/admin-ajax.php" }
+    <script type="text/javascript">
+        var kc_script_data = {
+            ajax_url: "http://themes.dhrubok.website/porfo/wp-admin/admin-ajax.php"
+        }
     </script> --}}
 
 
@@ -80,6 +78,9 @@
 
                                             </li>
                                             <li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="#about">About</a></li>
+
+
+                                            <li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="#services">Services</a></li>
 
                                             <li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="#portfolio">Portfolio</a></li>
                                             <li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="#resume">Resume</a></li>
@@ -125,6 +126,7 @@
                             </li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="#about">About</a></li>
 
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="#services">Services</a></li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="#portfolio">Portfolio</a></li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="#resume">Resume</a></li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="#contact">Contact</a></li>
@@ -229,6 +231,68 @@
                     </div>
                 </div>
             </section>
+
+            <section id="services" class="kc-elm kc-css-970419 kc_row">
+                <div class="kc-row-container  kc-container">
+                    <div class="kc-wrap-columns">
+                        <div class="kc-elm kc-css-392101 kc_col-sm-12 kc_column kc_col-sm-12">
+                            <div class="kc-col-container">
+                                <div class="kc-elm kc-css-323567">
+                                    <div class="section-title">
+                                        <h2 class="title">My Services</h2> </div>
+                                </div>
+                                <div class="kc-elm kc-css-336567">
+                                    <div class="service-slider">
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-desktop"></i>
+                                                <h5>PRODUCT DESIGN</h5>
+                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-vector"></i>
+                                                <h5>UI/UX DESIGN</h5>
+                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-paint-bucket"></i>
+                                                <h5>APP DEVELOPMENT</h5>
+                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-camera"></i>
+                                                <h5>PHOTOGRAPHY</h5>
+                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-desktop"></i>
+                                                <h5>PRODUCT DESIGN</h5>
+                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-video-camera"></i>
+                                                <h5>PRODUCT Photography</h5>
+                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
 
             <section id="portfolio" class="kc-elm kc-css-348882 kc_row">
                 <div class="kc-row-container  kc-container">
@@ -470,7 +534,8 @@
                                                                 <div class="input-form-group">
                                                                     <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span>
                                                                 </div>
-                                                                {{-- <div class="input-form-group">
+                                                                {{--
+                                                                <div class="input-form-group">
                                                                     <span class="wpcf7-form-control-wrap budget"><input type="text" name="budget" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Budget" /></span>
                                                                 </div> --}}
                                                             </div>
