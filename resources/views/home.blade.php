@@ -16,7 +16,9 @@
 
     <link rel='stylesheet' id='porfo-google-fonts-css' href='//fonts.googleapis.com/css?family=Lato%7CMontserrat%3A300%2C400%2C500%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
     <link rel='stylesheet' id='animate-css' href='/css/animate.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='bootstrap-css' href='/css/bootstrap.css' type='text/css' media='all' /> {{--
+    <link rel='stylesheet' id='bootstrap-css' href='/css/bootstrap.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='slick-css-css'  href='/css/slick.css' type='text/css' media='all' />
+     {{--
     <link rel='stylesheet' id='porfo-stylesheet-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo-child/style.css?ver=4.8.5' type='text/css' media='all' /> --}} {{--
     <link rel='stylesheet' id='porfo-theme-custom-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/theme_options_style.css?ver=4.8.5' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='montserrat-css' href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext%2Cvietnamese&#038;ver=2.6.17'
@@ -590,7 +592,7 @@
 
     <script type='text/javascript' src='/js/more.js'></script>
     <script type='text/javascript' src='/js/more2.js'></script>
-    <script type='text/javascript' src='/js/bootsrap2.js'></script>
+    <script type='text/javascript' src='/js/bootstrap.js'></script>
     <script type='text/javascript' src='/js/isotope.js'></script>
     <script type='text/javascript' src='/js/wpmore.js'></script>
     {{-- <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/jquery.counterup.min.js'></script> --}}

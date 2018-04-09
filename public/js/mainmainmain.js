@@ -1,10 +1,10 @@
 (function($) {
     'use strict';
 
-    // SCROLLSPY
-    $('body').scrollspy({
-        target: ''
-    });
+    // // SCROLLSPY
+    // $('body').scrollspy({
+    //     target: ''
+    // });
 
     // Share on linked in
     $('.pf-social-share').find('a').prettySocial();
@@ -116,6 +116,8 @@
         ]
     });
 
+    console.log('this should be running');
+
     // Testimonial Slider
     $('.testimonial-slider').slick({
         autoplay: false,
@@ -175,11 +177,11 @@
     });
 
 
-    // CounterUp JS
-    $('.counter-number').counterUp({
-        delay: 10,
-        time: 1000
-    });
+    // // CounterUp JS
+    // $('.counter-number').counterUp({
+    //     delay: 10,
+    //     time: 1000
+    // });
 
 
     // Back to Top Button Activated
