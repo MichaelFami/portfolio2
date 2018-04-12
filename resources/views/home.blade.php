@@ -82,7 +82,7 @@
                                             <li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="#about">About</a></li>
 
 
-                                            <li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="#services">Services</a></li>
+                                            <li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="#services">Skills</a></li>
 
                                             <li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="#portfolio">Portfolio</a></li>
                                             <li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="#resume">Resume</a></li>
@@ -170,11 +170,9 @@
 		<span>I’m </span>
 
 		<span class="cd-words-wrapper">
-			<b class="is-visible">Michael Famitafreshi</b><b>a Front-End Developer</b><b>a Back-End Developer</b><b>a Motorcyclist</b><b>a Gamer</b><b>a Gardener</b><b>a Gardener</b>	</span>
+			<b class="is-visible">Michael Famitafreshi</b><b>a Front-End Developer</b><b>a Back-End Developer</b><b>a Motorcyclist</b><b>a Gamer</b><b>a Gardener</b>	</span>
 	</h1>
                                 </div>
-
-
                                 <div class="kc-elm kc-css-750218 kc-multi-icons-wrapper header-social-list">
                                     <a href="#" target="_self" title="" class="multi-icons-link multi-iconsti-instagram">
 			<i class="ti-instagram"></i>
@@ -221,12 +219,10 @@
                                         <h3 class="title">About Me</h3> </div>
                                 </div>
                                 <div class="kc-elm kc-css-353169 kc_text_block">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidiei dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exeracita aation ullamco laboris nisi ut aliquip
-                                        ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                    <p>I have Bachelor's in International Business. I recently started my career as a full stack web developer after completing the twelve week LAMP Stack course at Valley Technical Academy. I was previously a recruiter in the manufacturing industry for five years. </p>
                                 </div>
                                 <div class="kc-elm kc-css-726447 kc_text_block">
-                                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam
-                                        rem aperiam.</p>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
@@ -241,50 +237,76 @@
                             <div class="kc-col-container">
                                 <div class="kc-elm kc-css-323567">
                                     <div class="section-title">
-                                        <h2 class="title">My Services</h2> </div>
+                                        <h2 class="title">My Skills</h2> </div>
                                 </div>
                                 <div class="kc-elm kc-css-336567">
                                     <div class="service-slider">
                                         <div class="single-service">
                                             <div class="service-content text-center">
                                                 <i class="ti-desktop"></i>
-                                                <h5>PRODUCT DESIGN</h5>
-                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                                <h5>Javascript</h5>
                                             </div>
                                         </div>
                                         <div class="single-service">
                                             <div class="service-content text-center">
                                                 <i class="ti-vector"></i>
-                                                <h5>UI/UX DESIGN</h5>
-                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                                <h5>PHP</h5>
                                             </div>
                                         </div>
                                         <div class="single-service">
                                             <div class="service-content text-center">
                                                 <i class="ti-paint-bucket"></i>
-                                                <h5>APP DEVELOPMENT</h5>
-                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                                <h5>Laravel</h5>
                                             </div>
                                         </div>
                                         <div class="single-service">
                                             <div class="service-content text-center">
                                                 <i class="ti-camera"></i>
-                                                <h5>PHOTOGRAPHY</h5>
-                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                                <h5>CSS</h5>
                                             </div>
                                         </div>
                                         <div class="single-service">
                                             <div class="service-content text-center">
                                                 <i class="ti-desktop"></i>
-                                                <h5>PRODUCT DESIGN</h5>
-                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                                <h5>MySQL</h5>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-desktop"></i>
+                                                <h5>jQuery</h5>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-desktop"></i>
+                                                <h5>AngularJS</h5>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-desktop"></i>
+                                                <h5>Git</h5>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-desktop"></i>
+                                                <h5>RESTful APIs</h5>
+                                            </div>
+                                        </div>
+                                        <div class="single-service">
+                                            <div class="service-content text-center">
+                                                <i class="ti-desktop"></i>
+                                                <h5>JSON</h5>
+
                                             </div>
                                         </div>
                                         <div class="single-service">
                                             <div class="service-content text-center">
                                                 <i class="ti-video-camera"></i>
-                                                <h5>PRODUCT Photography</h5>
-                                                <p>Lorem ipsum dolor amet, consecte tempor incididunt ut labore et dolore tumber tur adipisicing elit.</p>
+                                                <h5>LAMP Stack</h5>
+
                                             </div>
                                         </div>
                                     </div>
