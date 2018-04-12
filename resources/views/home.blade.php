@@ -340,14 +340,10 @@
                                             <div class="portfolio-item branding design ">
                                                 <div class="portfolio-item-content">
                                                     <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
-
-
-                                                    <div class="portfolio-details" data-href="">
+                                                    <div class="portfolio-details" target="_blank" data-href="https://thawing-journey-12804.herokuapp.com/">
                                                         <div class="portfolio-details-inner">
-                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">504 Sports</a></h3>
-
-                                                            <span class="portfolio-category">Local high school sports website requested a redesign</span>
+                                                            <span class="portfolio-category">Local high school sports website requested a redesign.</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -357,9 +353,7 @@
                                                     <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
-                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">Corporate Branding</a></h3>
-
                                                             <span class="portfolio-category">design, marketing</span>
                                                         </div>
                                                     </div>
@@ -376,33 +370,23 @@
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">Corporate Branding</a></h3>
-
                                                             <span class="portfolio-category">branding, product</span>
                                                         </div>
                                                     </div>
-
-
                                                 </div>
                                             </div>
 
                                             <div class="portfolio-item branding product ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
-
-
+                                                    <div class="item-thumbnail" style="background-image: url('images/compfinder_imac2015_front.png')"></div>
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
-                                                            <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
-                                                            <h3><a href="">Corporate Branding</a></h3>
-
-                                                            <span class="portfolio-category">branding, product</span>
+                                                            <h3><a href="">Compfinder</a></h3>
+                                                            <span class="portfolio-category">App to assist Real Estate Agents and Investors in finding comparable properties using 2 APIs from Zillow.com </span>
                                                         </div>
                                                     </div>
-
-
                                                 </div>
                                             </div>
-
                                             <div class="portfolio-item development marketing ">
                                                 <div class="portfolio-item-content">
                                                     <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
@@ -410,7 +394,6 @@
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">Corporate Branding</a></h3>
-
                                                             <span class="portfolio-category">development, marketing</span>
                                                         </div>
                                                     </div>
