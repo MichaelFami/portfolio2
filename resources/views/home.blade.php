@@ -350,11 +350,11 @@
                                             </div>
                                             <div class="portfolio-item design marketing ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
-                                                    <div class="portfolio-details" data-href="">
+                                                    <div class="item-thumbnail" style="background-image: url('images/fortnitescreen.png')"></div>
+                                                    <div class="portfolio-details" data-href="https://mighty-coast-75858.herokuapp.com/get_player">
                                                         <div class="portfolio-details-inner">
-                                                            <h3><a href="">Corporate Branding</a></h3>
-                                                            <span class="portfolio-category">design, marketing</span>
+                                                            <h3><a href="">Fortnite Stat Tracker</a></h3>
+                                                            <span class="portfolio-category">Companion app for players of the game Fortnite</span>
                                                         </div>
                                                     </div>
 
