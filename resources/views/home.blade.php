@@ -379,7 +379,7 @@
                                             <div class="portfolio-item branding product ">
                                                 <div class="portfolio-item-content">
                                                     <div class="item-thumbnail" style="background-image: url('images/compfinder_imac2015_front.png')"></div>
-                                                    <div class="portfolio-details" data-href="">
+                                                    <div class="portfolio-details" data-href="http://compfinder.herokuapp.com/">
                                                         <div class="portfolio-details-inner">
                                                             <h3><a href="">Compfinder</a></h3>
                                                             <span class="portfolio-category">App to assist Real Estate Agents and Investors in finding comparable properties using 2 APIs from Zillow.com </span>
