@@ -387,7 +387,7 @@
                                             </div>
                                             <div class="portfolio-item development marketing ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('images/faceapp.png')"></div>
+                                                    <div class="item-thumbnail" style="background-image: url('images/faceapp1.png')"></div>
                                                     <div class="portfolio-details" data-href="http://stark-plateau-91743.herokuapp.com/">
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
