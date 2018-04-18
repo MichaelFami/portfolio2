@@ -367,8 +367,8 @@
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
-                                                            <h3><a href="">Corporate Branding</a></h3>
-                                                            <span class="portfolio-category">branding, product</span>
+                                                            <h3><a href="">Face App</a></h3>
+                                                            <span class="portfolio-category">App that provides basic analysis of a person’s face</span>
                                                         </div>
                                                     </div>
                                                 </div>
