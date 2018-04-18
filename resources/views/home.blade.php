@@ -429,7 +429,7 @@
 
                                             <div class="kc-elm kc-css-480821">
                                                 <div class="single-resume">
-                                                    <p class="work-duration">January 2018 - April 2018</p>
+                                                    <p class="work-duration"></p>
                                                     <h5>Valley Technical Academy</h5>
                                                     <h4>Full Stack Developer/LAMP Stack</h4>
                                                 </div>
@@ -438,7 +438,7 @@
                                             <div class="kc-elm kc-css-367173">
                                                 <div class="single-resume">
 
-                                                    <p class="work-duration">August 2008 - May 2012</p>
+                                                    <p class="work-duration"></p>
                                                     <h5>University of Texas Rio Grande Valley</h5>
                                                     <h4>Bachelor of Business Administration in International Business</h4>
                                                     <h4>Minor: Global Security</h4>
