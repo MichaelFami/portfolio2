@@ -363,9 +363,7 @@
                                             </div>
                                             <div class="portfolio-item branding product portfolio-item-xl ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
-
-
+                                                    <div class="item-thumbnail" style="background-image: url('images/faceappscreen_macbookair11_front.png')"></div>
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
@@ -390,7 +388,7 @@
                                             <div class="portfolio-item development marketing ">
                                                 <div class="portfolio-item-content">
                                                     <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
-                                                    <div class="portfolio-details" data-href="">
+                                                    <div class="portfolio-details" data-href="http://stark-plateau-91743.herokuapp.com/">
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
                                                             <h3><a href="">Corporate Branding</a></h3>
