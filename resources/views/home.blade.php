@@ -363,12 +363,12 @@
                                             </div>
                                             <div class="portfolio-item branding product portfolio-item-xl ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('images/504screenshot.png')"></div>
-                                                    <div class="portfolio-details" data-href="">
+                                                    <div class="item-thumbnail" style="background-image: url('images/exhibitscreen.png')"></div>
+                                                    <div class="portfolio-details" data-href="https://limitless-earth-17554.herokuapp.com/">
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
-                                                            <h3><a href="">Face App</a></h3>
-                                                            <span class="portfolio-category">App that provides basic analysis of a person’s face</span>
+                                                            <h3><a href="">Exhibit</a></h3>
+                                                            <span class="portfolio-category">Market for local artists to connect with local art buyers</span>
                                                         </div>
                                                     </div>
                                                 </div>
