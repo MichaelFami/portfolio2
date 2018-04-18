@@ -363,7 +363,7 @@
                                             </div>
                                             <div class="portfolio-item branding product portfolio-item-xl ">
                                                 <div class="portfolio-item-content">
-                                                    <div class="item-thumbnail" style="background-image: url('images/faceappscreen_macbookair11_front.png')"></div>
+                                                    <div class="item-thumbnail" style="background-image: url('images/faceapp.png')"></div>
                                                     <div class="portfolio-details" data-href="">
                                                         <div class="portfolio-details-inner">
                                                             <a class="venobox portfolio-view-btn" data-gall="myGallery" href=""><i class="ti-fullscreen"></i></a>
