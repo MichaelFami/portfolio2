@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 
 
     <title>Michael Fami </title>
@@ -17,8 +17,7 @@
     <link rel='stylesheet' id='porfo-google-fonts-css' href='//fonts.googleapis.com/css?family=Lato%7CMontserrat%3A300%2C400%2C500%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
     <link rel='stylesheet' id='animate-css' href='/css/animate.css' type='text/css' media='all' />
     <link rel='stylesheet' id='bootstrap-css' href='/css/bootstrap.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='slick-css-css'  href='/css/slick.css' type='text/css' media='all' />
-     {{--
+    <link rel='stylesheet' id='slick-css-css' href='/css/slick.css' type='text/css' media='all' /> {{--
     <link rel='stylesheet' id='porfo-stylesheet-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo-child/style.css?ver=4.8.5' type='text/css' media='all' /> --}} {{--
     <link rel='stylesheet' id='porfo-theme-custom-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/theme_options_style.css?ver=4.8.5' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='montserrat-css' href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext%2Cvietnamese&#038;ver=2.6.17'
@@ -71,7 +70,7 @@
                         <div class="col-md-12 col-sm-11">
                             <div class="navbar-inner">
                                 <div class="logo">
-                                    <h1>Michael Fami</h1>
+                                    <h1 class="logoname">Michael Fami</h1>
                                 </div>
                                 <div class="main-menu-wrapper clearfix" id="navigation">
                                     <div class="menu-main-menu-container">
@@ -219,7 +218,8 @@
                                         <h3 class="title">About Me</h3> </div>
                                 </div>
                                 <div class="kc-elm kc-css-353169 kc_text_block">
-                                    <p>I have Bachelor's in International Business. I recently started my career as a full stack web developer after completing the twelve week LAMP Stack course at Valley Technical Academy. I was previously a recruiter in the manufacturing industry for five years. </p>
+                                    <p class="bachelorsparagraph">I have a Bachelor's in International Business. I recently started my career as a full stack web developer after completing the twelve week LAMP Stack course at Valley Technical Academy. I was previously a recruiter in
+                                        the manufacturing industry for five years. </p>
                                 </div>
                                 <div class="kc-elm kc-css-726447 kc_text_block">
                                     <p></p>
@@ -233,79 +233,116 @@
             <section id="services" class="kc-elm kc-css-970419 kc_row">
                 <div class="kc-row-container  kc-container">
                     <div class="kc-wrap-columns">
-                        <div class="kc-elm kc-css-392101 kc_col-sm-12 kc_column kc_col-sm-12">
+                        <div class="kc-elm kc-css-530579 kc_col-sm-12 kc_column kc_col-sm-12">
                             <div class="kc-col-container">
-                                <div class="kc-elm kc-css-323567">
+                                <div class="kc-elm kc-css-93026">
                                     <div class="section-title">
                                         <h2 class="title">My Skills</h2> </div>
                                 </div>
-                                <div class="kc-elm kc-css-336567">
-                                    <div class="service-slider">
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-desktop"></i>
-                                                <h5>Javascript</h5>
+                                <div class="kc-elm kc-css-254077 kc_row kc_row_inner">
+                                    <div class="kc-elm kc-css-899489 kc_col-sm-6 kc_column_inner kc_col-sm-6">
+                                        <div class="kc_wrapper kc-col-inner-container">
+                                            <div class="kc-elm kc-css-808600 kc_shortcode kc_progress_bars " data-style="1">
+                                                <div class="progress-item"><span class="label">Javascript</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 90%" data-value="90" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">90%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="progress-item"><span class="label">PHP</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 95%" data-value="95" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">95%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="progress-item"><span class="label">CSS</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">92%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="progress-item"><span class="label">JSON</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">92%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="progress-item"><span class="label">RESTful APIs</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">92%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-vector"></i>
-                                                <h5>PHP</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-paint-bucket"></i>
-                                                <h5>Laravel</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-camera"></i>
-                                                <h5>CSS</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-desktop"></i>
-                                                <h5>MySQL</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-desktop"></i>
-                                                <h5>jQuery</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-desktop"></i>
-                                                <h5>AngularJS</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-desktop"></i>
-                                                <h5>Git</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-desktop"></i>
-                                                <h5>RESTful APIs</h5>
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-desktop"></i>
-                                                <h5>JSON</h5>
+                                    </div>
+                                    <div class="kc-elm kc-css-765962 kc_col-sm-6 kc_column_inner kc_col-sm-6">
+                                        <div class="kc_wrapper kc-col-inner-container">
+                                            <div class="kc-elm kc-css-123745 kc_shortcode kc_progress_bars " data-style="1">
+                                                <div class="progress-item"><span class="label">Laravel</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 97%" data-value="97" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">97%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
 
-                                            </div>
-                                        </div>
-                                        <div class="single-service">
-                                            <div class="service-content text-center">
-                                                <i class="ti-video-camera"></i>
-                                                <h5>LAMP Stack</h5>
+                                                <div class="progress-item"><span class="label">MySQL</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">92%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="progress-item"><span class="label">jQuery</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">92%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="progress-item"><span class="label">AngularJS</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">92%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="progress-item"><span class="label">Git</span>
+                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
+                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
+                                                            <div class="ui-label">
+                                                                <span class="value">92%</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+
 
                                             </div>
                                         </div>
@@ -455,10 +492,18 @@
 
                                                 <h1 class="kc_title"><i class="ti-bag"></i>Experience</h1>
                                             </div>
+                                            <div class="kc-elm kc-css-583624">
+                                                <div class="single-resume">
+                                                    <p class="work-duration">April 2018 - Present</p>
+                                                    <h4><span class="title-icon"><img id="fwspic" src="images/fwslogo.png" alt="FWSlogo"></span>Cultura</h4>
+                                                    <p>Implemented various changes to modernize company and streamline processes. Responsible for training and development of Rookie Recruiting Class</p>
+                                                    <h5>Recruitment Process Manager</h5>
+                                                </div>
+                                            </div>
 
                                             <div class="kc-elm kc-css-583624">
                                                 <div class="single-resume">
-                                                    <p class="work-duration">June 2013 - Present</p>
+                                                    <p class="work-duration">June 2013 - April 2018</p>
                                                     <h4><span class="title-icon"><img id="fwspic" src="images/fwslogo.png" alt="FWSlogo"></span>Fred W. Smithson</h4>
                                                     <p>Implemented various changes to modernize company and streamline processes. Responsible for training and development of Rookie Recruiting Class</p>
                                                     <h5>Recruitment Process Manager</h5>
@@ -535,19 +580,21 @@
                                                         <div class="row">
                                                             <div class="col-md-5 col-sm-6">
                                                                 <div class="input-form-group">
-                                                                    <span class="wpcf7-form-control-wrap name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span>
+                                                                    <span class="wpcf7-form-control-wrap name"><input id="formName" type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span>
                                                                 </div>
                                                                 <div class="input-form-group">
-                                                                    <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span>
+                                                                    <span class="wpcf7-form-control-wrap email"><input id="formEmail" type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span>
                                                                 </div>
-                                                                {{--
                                                                 <div class="input-form-group">
-                                                                    <span class="wpcf7-form-control-wrap budget"><input type="text" name="budget" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Budget" /></span>
-                                                                </div> --}}
+                                                                    <span class="wpcf7-form-control-wrap budget"><input id="formWebsite" type="text" name="budget" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your website URL" /></span>
+                                                                </div>
+                                                                <div class="input-form-group">
+                                                                    <span class="wpcf7-form-control-wrap budget"><input id="formPhone" type="text" name="budget" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your phone" /></span>
+                                                                </div>
                                                             </div>
                                                             <div class="col-md-7 col-sm-6">
                                                                 <div class="input-form-group">
-                                                                    <span class="wpcf7-form-control-wrap message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Project Description"></textarea></span>
+                                                                    <span class="wpcf7-form-control-wrap message"><textarea id="formComment" name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Project Description"></textarea></span>
                                                                 </div>
                                                                 <p> <input type="submit" value="SEND MESSAGE" class="wpcf7-form-control wpcf7-submit button" />
                                                                 </p>
@@ -593,13 +640,14 @@
             </div>
         </div>
     </footer>
-
+    <script type='text/javascript' src='/js/mailing.js'></script>
     <script type='text/javascript' src='/js/more.js'></script>
     <script type='text/javascript' src='/js/more2.js'></script>
     <script type='text/javascript' src='/js/bootstrap.js'></script>
     <script type='text/javascript' src='/js/isotope.js'></script>
     <script type='text/javascript' src='/js/wpmore.js'></script>
-    {{-- <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/jquery.counterup.min.js'></script> --}}
+    {{--
+    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/jquery.counterup.min.js'></script> --}}
     <script type='text/javascript' src='/js/slick.js'></script>
     <script type='text/javascript' src='/js/waypoints.js'></script>
     <script type='text/javascript' src='/js/prettysocial.js'></script>
@@ -612,7 +660,8 @@
     <script type='text/javascript' src='/js/bootstrapautohide.js'></script>
     <script type='text/javascript' src='/js/mainmainmain.js'></script>
     <script type='text/javascript' src='/js/kingcomposer.js'></script>
-     {{-- <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script> --}}
+    {{--
+    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script> --}}
 </body>
 
 </html>

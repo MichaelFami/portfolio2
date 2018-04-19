@@ -1,4 +1,7 @@
-
+    .bachelorsparagraph{
+        font-size: xx-large;
+        line-height: 35px;
+    }
     img.wp-smiley,
     img.emoji {
         display: inline !important;
@@ -4631,6 +4634,7 @@ a.button.large {
     left: 0;
     padding: 25px 0px;
     position: fixed;
+
     top: 0;
     width: 100%;
     z-index:9999;
@@ -4671,6 +4675,10 @@ a.button.large {
 .logo {
     float: left;
     width: 250px;
+}
+
+.logoname{
+    color: white;
 }
 
 
