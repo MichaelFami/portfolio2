@@ -1,14 +1,14 @@
-var wpcf7 = {
-    "apiSettings": {
-        "root": "http:\/\/themes.dhrubok.website\/porfo\/wp-json\/contact-form-7\/v1",
-        "namespace": "contact-form-7\/v1"
-    },
-    "recaptcha": {
-        "messages": {
-            "empty": "Please verify that you are not a robot."
-        }
-    }
-};
+// var wpcf7 = {
+//     "apiSettings": {
+//         "root": "http:\/\/themes.dhrubok.website\/porfo\/wp-json\/contact-form-7\/v1",
+//         "namespace": "contact-form-7\/v1"
+//     },
+//     "recaptcha": {
+//         "messages": {
+//             "empty": "Please verify that you are not a robot."
+//         }
+//     }
+// };
 
 window._wpemojiSettings = {
     "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/",

@@ -34,3 +34,5 @@ Route::get('/resume', function () {
 Route::get('/theme', function () {
     return view('theme');
 });
+
+Route::post('/send-email', 'HomeController@sendEmail');

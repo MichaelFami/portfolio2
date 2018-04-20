@@ -2,7 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Order;
+use App\Mail\OrderShipped;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
+use App\Http\Controllers\Controller;
 
 class HomeController extends Controller
 {
@@ -13,7 +17,7 @@ class HomeController extends Controller
             $phone = $request->phone;
             $wholeMsg = "Website: $website | Phone: $phone | Message: $msg";
             Mail::raw($wholeMsg, function ($message) use ($request) {
-                $message->to('plazajosue2@gmail.com');
+                $message->to('michaelfami@gmail.com');
                 $message->from($request->email, $request->name);
                 $message->subject('CUSTOMER CONSULTANT REQUEST ');
             });

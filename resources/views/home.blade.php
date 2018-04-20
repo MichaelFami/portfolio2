@@ -27,8 +27,8 @@
     <link rel='stylesheet' id='kc-animate-css' href='/css/animate2.css' type='text/css' media='all' /> {{--
     <link rel='stylesheet' id='kc-icon-1-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=2.6.17' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='kc-icon-2-css' href='/css/style2.css' type='text/css' media='all' />
-    <script type='text/javascript' src='/js/jquery.js'></script>
-    <script type='text/javascript' src='/js/jquery2.js'></script>
+    <!-- <script type='text/javascript' src='/js/jquery.js'></script>
+    <script type='text/javascript' src='/js/jquery2.js'></script> -->
     <link rel='https://api.w.org/' href='/js/json.json' /> {{--
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themes.dhrubok.website/porfo/xmlrpc.php?rsd" /> --}} {{--
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themes.dhrubok.website/porfo/wp-includes/wlwmanifest.xml" /> --}} {{--
@@ -218,8 +218,8 @@
                                         <h3 class="title">About Me</h3> </div>
                                 </div>
                                 <div class="kc-elm kc-css-353169 kc_text_block">
-                                    <p class="bachelorsparagraph">I have a Bachelor's in International Business. I recently started my career as a full stack web developer after completing the twelve week LAMP Stack course at Valley Technical Academy. I was previously a recruiter in
-                                        the manufacturing industry for five years. </p>
+                                    <p class="bachelorsparagraph">I have a Bachelor's in International Business. I recently started my career as a full stack web developer after completing the twelve week LAMP Stack course at Valley Technical Academy. I was previously a recruiter
+                                        in the manufacturing industry for five years. </p>
                                 </div>
                                 <div class="kc-elm kc-css-726447 kc_text_block">
                                     <p></p>
@@ -569,7 +569,7 @@
                                             <div class="kc-contact-form7 kc-elm kc-css-153175">
                                                 <div role="form" class="wpcf7" id="wpcf7-f28-p4-o1" lang="en-US" dir="ltr">
                                                     <div class="screen-reader-response"></div>
-                                                    <form action="/porfo/#wpcf7-f28-p4-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                                    <form method="post" class="wpcf7-form" novalidate="novalidate">
                                                         <div style="display: none;">
                                                             <input type="hidden" name="_wpcf7" value="28" />
                                                             <input type="hidden" name="_wpcf7_version" value="5.0.1" />
@@ -596,11 +596,11 @@
                                                                 <div class="input-form-group">
                                                                     <span class="wpcf7-form-control-wrap message"><textarea id="formComment" name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Project Description"></textarea></span>
                                                                 </div>
-                                                                <p> <input type="submit" value="SEND MESSAGE" class="wpcf7-form-control wpcf7-submit button" />
+                                                                <p> <input id="send" type="button" value="SEND MESSAGE" class="wpcf7-form-control wpcf7-submit button" />
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <div class="wpcf7-response-output wpcf7-display-none"></div>
+                                                        <div class="wpcf7-response-output wpcf7-display-none email-msg"></div>
                                                     </form>
                                                 </div>
                                             </div>
@@ -640,14 +640,18 @@
             </div>
         </div>
     </footer>
+    <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
     <script type='text/javascript' src='/js/mailing.js'></script>
     <script type='text/javascript' src='/js/more.js'></script>
     <script type='text/javascript' src='/js/more2.js'></script>
     <script type='text/javascript' src='/js/bootstrap.js'></script>
     <script type='text/javascript' src='/js/isotope.js'></script>
     <script type='text/javascript' src='/js/wpmore.js'></script>
-    {{--
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/jquery.counterup.min.js'></script> --}}
+
+    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/js/jquery.counterup.min.js'></script>
     <script type='text/javascript' src='/js/slick.js'></script>
     <script type='text/javascript' src='/js/waypoints.js'></script>
     <script type='text/javascript' src='/js/prettysocial.js'></script>
