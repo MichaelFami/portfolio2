@@ -11,6 +11,9 @@
     <title>Michael Fami </title>
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
+    <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+
+
 
 
 
@@ -47,6 +50,9 @@
 
 
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+
+
 
 </head>
 
@@ -169,7 +175,7 @@
 		<span>I’m </span>
 
 		<span class="cd-words-wrapper">
-			<b class="is-visible">Michael Famitafreshi</b><b>a Front-End Developer</b><b>a Back-End Developer</b><b>a Motorcyclist</b><b>a Gamer</b><b>a Gardener</b>	</span>
+			<b class="is-visible">Michael Famitafreshi</b><b>a Front-End Developer</b><b>a Back-End Developer</b><b>a Biker</b><b>a Gamer</b><b>a Gardener</b>	</span>
 	</h1>
                                 </div>
                                 <div class="kc-elm kc-css-750218 kc-multi-icons-wrapper header-social-list">
@@ -243,107 +249,45 @@
                                     <div class="kc-elm kc-css-899489 kc_col-sm-6 kc_column_inner kc_col-sm-6">
                                         <div class="kc_wrapper kc-col-inner-container">
                                             <div class="kc-elm kc-css-808600 kc_shortcode kc_progress_bars " data-style="1">
-                                                <div class="progress-item"><span class="label">Javascript</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 90%" data-value="90" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">90%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                <div class="biggericon"><span >Javascript</span>
+                                                    <i class="devicon-javascript-plain"></i>
                                                 </div>
-                                                <div class="progress-item"><span class="label">PHP</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 95%" data-value="95" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">95%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                <div class="biggericon"><span >PHP</span>
+                                                    <i class="devicon-php-plain"></i>
+                                                    <i class="fab fa-facebook"></i>
                                                 </div>
-                                                <div class="progress-item"><span class="label">CSS</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">92%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                <div class="biggericon"><span >CSS</span>
+                                                    <i class="devicon-css3-plain"></i>
                                                 </div>
-                                                <div class="progress-item"><span class="label">JSON</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">92%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                <div class="biggericon"><span >Git</span>
+                                                    <i class="devicon-git-plain"></i>
                                                 </div>
-                                                <div class="progress-item"><span class="label">RESTful APIs</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">92%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+
                                             </div>
+
                                         </div>
+
                                     </div>
+
                                     <div class="kc-elm kc-css-765962 kc_col-sm-6 kc_column_inner kc_col-sm-6">
                                         <div class="kc_wrapper kc-col-inner-container">
                                             <div class="kc-elm kc-css-123745 kc_shortcode kc_progress_bars " data-style="1">
-                                                <div class="progress-item"><span class="label">Laravel</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 97%" data-value="97" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">97%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                <div class="biggericon" ><span >Laravel</span>
+                                                    <i class="devicon-laravel-plain"></i>
                                                 </div>
 
-                                                <div class="progress-item"><span class="label">MySQL</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">92%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-item"><span class="label">jQuery</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">92%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-item"><span class="label">AngularJS</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">92%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-item"><span class="label">Git</span>
-                                                    <div class="kc-ui-progress-bar kc-ui-progress-bar1 kc-progress-bar kc-ui-container">
-                                                        <div class="kc-ui-progress kc-ui-progress1" style="background-color: #000000;width: 92%" data-value="92" data-speed="2000">
-                                                            <div class="ui-label">
-                                                                <span class="value">92%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                <div class="biggericon" ><span >MySQL</span>
+                                                    <i class="devicon-mysql-plain"></i>
+
                                                 </div>
 
+                                                <div class="biggericon"><span >jQuery</span>
+                                                    <i class="devicon-jquery-plain"></i>
+                                                </div>
 
-
-
+                                                <div class="biggericon"><span >AngularJS</span>
+                                                    <i class="devicon-angularjs-plain"></i>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -542,9 +486,7 @@
 
                                                 <div class="kc-elm kc-css-528405 kc_col-sm-4 kc_column_inner kc_col-sm-4">
                                                     <div class="kc_wrapper kc-col-inner-container">
-                                                        <div class="kc-elm kc-css-970136 kc-icon-wrapper">
-                                                            <i class="ti-map-alt"></i>
-                                                        </div>
+
 
                                                         <div class="kc-elm kc-css-193521 kc-title-wrap ">
 
@@ -554,9 +496,7 @@
                                                 </div>
                                                 <div class="kc-elm kc-css-651403 kc_col-sm-4 kc_column_inner kc_col-sm-4">
                                                     <div class="kc_wrapper kc-col-inner-container">
-                                                        <div class="kc-elm kc-css-783914 kc-icon-wrapper">
-                                                            <i class="ti-email"></i>
-                                                        </div>
+
 
                                                         <div class="kc-elm kc-css-717 kc-title-wrap ">
 
@@ -618,14 +558,13 @@
     </div>
 
 
-
     <footer class="footer-area footer-white">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="social-bookmark footer-social text-center">
                         <ul>
-                            <li><a href="#"><i class="ti-facebook"></i> </a></li>
+                            <li><a href="#"><i class="fab fa-github-square"></i></a></li>
                             <li><a href="#"><i class="ti-twitter"></i> </a></li>
                             <li><a href="#"><i class="ti-dribbble"></i> </a></li>
                             <li><a href="#"><i class="ti-instagram"></i> </a></li>
