@@ -50,7 +50,7 @@
 
 
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 
 
 
@@ -249,17 +249,17 @@
                                     <div class="kc-elm kc-css-899489 kc_col-sm-6 kc_column_inner kc_col-sm-6">
                                         <div class="kc_wrapper kc-col-inner-container">
                                             <div class="kc-elm kc-css-808600 kc_shortcode kc_progress_bars " data-style="1">
-                                                <div class="biggericon"><span >Javascript</span>
+                                                <div class="biggericon"><span>Javascript</span>
                                                     <i class="devicon-javascript-plain"></i>
                                                 </div>
-                                                <div class="biggericon"><span >PHP</span>
+                                                <div class="biggericon"><span>PHP</span>
                                                     <i class="devicon-php-plain"></i>
                                                     <i class="fab fa-facebook"></i>
                                                 </div>
-                                                <div class="biggericon"><span >CSS</span>
+                                                <div class="biggericon"><span>CSS</span>
                                                     <i class="devicon-css3-plain"></i>
                                                 </div>
-                                                <div class="biggericon"><span >Git</span>
+                                                <div class="biggericon"><span>Git</span>
                                                     <i class="devicon-git-plain"></i>
                                                 </div>
 
@@ -272,20 +272,20 @@
                                     <div class="kc-elm kc-css-765962 kc_col-sm-6 kc_column_inner kc_col-sm-6">
                                         <div class="kc_wrapper kc-col-inner-container">
                                             <div class="kc-elm kc-css-123745 kc_shortcode kc_progress_bars " data-style="1">
-                                                <div class="biggericon" ><span >Laravel</span>
+                                                <div class="biggericon"><span>Laravel</span>
                                                     <i class="devicon-laravel-plain"></i>
                                                 </div>
 
-                                                <div class="biggericon" ><span >MySQL</span>
+                                                <div class="biggericon"><span>MySQL</span>
                                                     <i class="devicon-mysql-plain"></i>
 
                                                 </div>
 
-                                                <div class="biggericon"><span >jQuery</span>
+                                                <div class="biggericon"><span>jQuery</span>
                                                     <i class="devicon-jquery-plain"></i>
                                                 </div>
 
-                                                <div class="biggericon"><span >AngularJS</span>
+                                                <div class="biggericon"><span>AngularJS</span>
                                                     <i class="devicon-angularjs-plain"></i>
                                                 </div>
                                             </div>
@@ -439,9 +439,9 @@
                                             <div class="kc-elm kc-css-583624">
                                                 <div class="single-resume">
                                                     <p class="work-duration">April 2018 - Present</p>
-                                                    <h4><span class="title-icon"><img id="fwspic" src="images/fwslogo.png" alt="FWSlogo"></span>Cultura</h4>
-                                                    <p>Implemented various changes to modernize company and streamline processes. Responsible for training and development of Rookie Recruiting Class</p>
-                                                    <h5>Recruitment Process Manager</h5>
+                                                    <h4><span class="title-icon"><img id="culturapic" src="images/cultura.png" alt="FWSlogo"></span>Cultura</h4>
+                                                    <p>Built websites and applications for various clients </p>
+                                                    <h5>Web Developer</h5>
                                                 </div>
                                             </div>
 
@@ -500,7 +500,7 @@
 
                                                         <div class="kc-elm kc-css-717 kc-title-wrap ">
 
-                                                            <h3 class="kc_title"><a href="http://michaelfami.com">michaelfami.com</a>
+                                                            <h3 class="kc_title">
 <a href="mailto:michaelfami@gmail.com">michaelfami@gmail.com</a></h3>
                                                         </div>
                                                     </div>
@@ -564,11 +564,8 @@
                 <div class="col-lg-12">
                     <div class="social-bookmark footer-social text-center">
                         <ul>
-                            <li><a href="#"><i class="fab fa-github-square"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i> </a></li>
-                            <li><a href="#"><i class="ti-dribbble"></i> </a></li>
-                            <li><a href="#"><i class="ti-instagram"></i> </a></li>
-                            <li><a href="#"><i class="ti-youtube"></i> </a></li>
+                            <li><a href="http://www.github.com/michaelfami"><i class="fab fa-github-square"></i></a></li>
+                            <li><a href="http://www.linkedin.com/in/michaelfamitafreshi"><i class="fab fa-linkedin"></i> </a></li>
                         </ul>
                     </div>
                     <div class="copyright text-center">
@@ -579,10 +576,7 @@
             </div>
         </div>
     </footer>
-    <script
-  src="https://code.jquery.com/jquery-2.2.4.min.js"
-  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-  crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
     <script type='text/javascript' src='/js/mailing.js'></script>
     <script type='text/javascript' src='/js/more.js'></script>
     <script type='text/javascript' src='/js/more2.js'></script>
