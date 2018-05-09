@@ -116,7 +116,7 @@
         ]
     });
 
-    console.log('this should be running');
+    console.log('Thanks for visiting my portfolio!');
 
     // Testimonial Slider
     $('.testimonial-slider').slick({
