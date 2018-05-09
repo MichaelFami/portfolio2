@@ -338,8 +338,6 @@
                                                             <span class="portfolio-category">Companion app for players of the game Fortnite</span>
                                                         </div>
                                                     </div>
-
-
                                                 </div>
                                             </div>
                                             <div class="portfolio-item branding product portfolio-item-xl ">
@@ -405,7 +403,7 @@
                                         <div class="kc_wrapper kc-col-inner-container">
                                             <div class="kc-elm kc-css-465319 kc-title-wrap ">
 
-                                                <h1 class="kc_title"><i class="ti-cup"></i>Education</h1>
+                                                <h1 class="kc_title"></i>Education</h1>
                                             </div>
 
                                             <div class="kc-elm kc-css-480821">
@@ -434,7 +432,7 @@
                                         <div class="kc_wrapper kc-col-inner-container">
                                             <div class="kc-elm kc-css-74424 kc-title-wrap ">
 
-                                                <h1 class="kc_title"><i class="ti-bag"></i>Experience</h1>
+                                                <h1 class="kc_title"></i>Experience</h1>
                                             </div>
                                             <div class="kc-elm kc-css-583624">
                                                 <div class="single-resume">
