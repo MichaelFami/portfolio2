@@ -20,31 +20,15 @@
     <link rel='stylesheet' id='porfo-google-fonts-css' href='//fonts.googleapis.com/css?family=Lato%7CMontserrat%3A300%2C400%2C500%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
     <link rel='stylesheet' id='animate-css' href='/css/animate.css' type='text/css' media='all' />
     <link rel='stylesheet' id='bootstrap-css' href='/css/bootstrap.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='slick-css-css' href='/css/slick.css' type='text/css' media='all' /> {{--
-    <link rel='stylesheet' id='porfo-stylesheet-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo-child/style.css?ver=4.8.5' type='text/css' media='all' /> --}} {{--
-    <link rel='stylesheet' id='porfo-theme-custom-style-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/theme_options_style.css?ver=4.8.5' type='text/css' media='all' /> --}}
+    <link rel='stylesheet' id='slick-css-css' href='/css/slick.css' type='text/css' media='all' />
     <link rel='stylesheet' id='montserrat-css' href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext%2Cvietnamese&#038;ver=2.6.17'
         type='text/css' media='all' />
     <link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.8.5' type='text/css' media='all' />
     <link rel='stylesheet' id='kc-general-css' href='/css/generalstyle.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='kc-animate-css' href='/css/animate2.css' type='text/css' media='all' /> {{--
-    <link rel='stylesheet' id='kc-icon-1-css' href='http://themes.dhrubok.website/porfo/wp-content/themes/porfo/assets/css/themify-icons.css?ver=2.6.17' type='text/css' media='all' /> --}}
+    <link rel='stylesheet' id='kc-animate-css' href='/css/animate2.css' type='text/css' media='all' />
     <link rel='stylesheet' id='kc-icon-2-css' href='/css/style2.css' type='text/css' media='all' />
-    <!-- <script type='text/javascript' src='/js/jquery.js'></script>
-    <script type='text/javascript' src='/js/jquery2.js'></script> -->
-    <link rel='https://api.w.org/' href='/js/json.json' /> {{--
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://themes.dhrubok.website/porfo/xmlrpc.php?rsd" /> --}} {{--
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://themes.dhrubok.website/porfo/wp-includes/wlwmanifest.xml" /> --}} {{--
-    <meta name="generator" content="WordPress 4.8.5" /> --}} {{--
-    <link rel="canonical" href="http://michaelfami.com" />
-    <link rel='shortlink' href='http://michaelfami.com' />
-    <link rel="alternate" type="application/json+oembed" href="http://themes.dhrubok.website/porfo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.dhrubok.website%2Fporfo%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="http://themes.dhrubok.website/porfo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.dhrubok.website%2Fporfo%2F&#038;format=xml" />
-    <script type="text/javascript">
-        var kc_script_data = {
-            ajax_url: "http://themes.dhrubok.website/porfo/wp-admin/admin-ajax.php"
-        }
-    </script> --}}
+
+    <link rel='https://api.w.org/' href='/js/json.json' />
 
 
 
@@ -600,8 +584,7 @@
     <script type='text/javascript' src='/js/bootstrapautohide.js'></script>
     <script type='text/javascript' src='/js/mainmainmain.js'></script>
     <script type='text/javascript' src='/js/kingcomposer.js'></script>
-    {{--
-    <script type='text/javascript' src='http://themes.dhrubok.website/porfo/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script> --}}
+    
 </body>
 
 </html>

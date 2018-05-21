@@ -1,3 +1,5 @@
+
+
     .reducedtruffle{
         width: 35px;
     }
@@ -92,7 +94,15 @@
     }
 
     body.kc-css-system .kc-css-785049 {
-        background: transparent url("/images/markus-spiske-357131-unsplash.jpg") center center/cover no-repeat scroll;
+        background:
+          /* top, transparent grey, faked with gradient */
+          linear-gradient(
+            rgba(128, 128, 128, 0.40),
+            rgba(128, 128, 128, 0.40)
+          ),
+          /* bottom, image */
+          url("/images/markus-spiske-357131-unsplash.jpg")
+         center center/cover no-repeat scroll;
     }
 
     body.kc-css-system .kc-css-662047 {
