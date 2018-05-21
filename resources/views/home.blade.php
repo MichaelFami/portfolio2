@@ -254,13 +254,15 @@
                                                 </div>
                                                 <div class="biggericon"><span>PHP</span>
                                                     <i class="devicon-php-plain"></i>
-                                                    <i class="fab fa-facebook"></i>
                                                 </div>
                                                 <div class="biggericon"><span>CSS</span>
                                                     <i class="devicon-css3-plain"></i>
                                                 </div>
                                                 <div class="biggericon"><span>Git</span>
                                                     <i class="devicon-git-plain"></i>
+                                                </div>
+                                                <div class="biggericon"><span>Solidity</span>
+                                                    <img class="reducedsolidity" src="/images/logosolidity13.svg.png" alt="">
                                                 </div>
 
                                             </div>
@@ -287,6 +289,9 @@
 
                                                 <div class="biggericon"><span>AngularJS</span>
                                                     <i class="devicon-angularjs-plain"></i>
+                                                </div>
+                                                <div class="biggericon"><span>Truffle</span>
+                                                    <img class="reducedtruffle" src="/images/truffleicon.png" alt="">
                                                 </div>
                                             </div>
                                         </div>
