@@ -162,7 +162,7 @@
 			<b class="is-visible">Michael Famitafreshi</b><b>a Front-End Developer</b><b>a Back-End Developer</b><b>a Biker</b><b>a Gamer</b><b>a Gardener</b>	</span>
 	</h1>
                                 </div>
-                                <div class="kc-elm kc-css-750218 kc-multi-icons-wrapper header-social-list">
+                                <!-- <div class="kc-elm kc-css-750218 kc-multi-icons-wrapper header-social-list">
                                     <a href="#" target="_self" title="" class="multi-icons-link multi-iconsti-instagram">
 			<i class="ti-instagram"></i>
 		</a>
@@ -183,7 +183,7 @@
 			<i class="ti-facebook"></i>
 		</a>
 
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -245,9 +245,7 @@
                                                 <div class="biggericon"><span>Git</span>
                                                     <i class="devicon-git-plain"></i>
                                                 </div>
-                                                <div class="biggericon"><span>Solidity</span>
-                                                    <img class="reducedsolidity" src="/images/logosolidity13.svg.png" alt="">
-                                                </div>
+
 
                                             </div>
 
@@ -271,12 +269,8 @@
                                                     <i class="devicon-jquery-plain"></i>
                                                 </div>
 
-                                                <div class="biggericon"><span>AngularJS</span>
-                                                    <i class="devicon-angularjs-plain"></i>
-                                                </div>
-                                                <div class="biggericon"><span>Truffle</span>
-                                                    <img class="reducedtruffle" src="/images/truffleicon.png" alt="">
-                                                </div>
+
+
                                             </div>
                                         </div>
                                     </div>
@@ -425,7 +419,7 @@
                                             </div>
                                             <div class="kc-elm kc-css-583624">
                                                 <div class="single-resume">
-                                                    <p class="work-duration">April 2018 - Present</p>
+                                                    <p class="work-duration">April 2018 - July 2018</p>
                                                     <h4><span class="title-icon"><img id="culturapic" src="images/cultura.png" alt="FWSlogo"></span>Cultura</h4>
                                                     <p>Built websites and applications for various clients </p>
                                                     <h5>Web Developer</h5>
@@ -584,7 +578,7 @@
     <script type='text/javascript' src='/js/bootstrapautohide.js'></script>
     <script type='text/javascript' src='/js/mainmainmain.js'></script>
     <script type='text/javascript' src='/js/kingcomposer.js'></script>
-    
+
 </body>
 
 </html>
